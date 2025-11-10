@@ -45,8 +45,8 @@ Each day was filled with problem-solving, debugging, peer learning, and late-nig
 ---
 
 ## ⚙️ Tools & Environment
-- **OS:** Ubuntu (via WSL2)  
-- **Editor:** Visual Studio Code  
+- **OS:** Linux  
+- **Editor:** Visual Studio Code / Vim  
 - **Compiler:** `gcc -Wall -Wextra -Werror`  
 - **Version Control:** Git & GitHub  
 
