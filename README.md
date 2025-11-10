@@ -70,7 +70,7 @@ By the end of these 4 weeks, I wasn’t just writing C; I was **thinking like a 
 
 ## 🧩 Next Steps
 - Dive deeper into **algorithms & data structures**  
-- Continue advancing through the **1337 curriculum**  
+- Get thru **1337 Next Pool**  
 - Start personal projects in **C and Python**
 
 ---
