@@ -5,6 +5,8 @@
 ![1337 School](https://img.shields.io/badge/1337-Network-black)
 ![Progress](https://img.shields.io/badge/Modules-C00→C08_+_Shell00→Shell01-success)
 
+<a href="https://wakatime.com/badge/github/Anwaroxxx/My_1337_Pool"><img src="https://wakatime.com/badge/github/Anwaroxxx/My_1337_Pool.svg" alt="wakatime"></a>
+
 ## 📍 Overview
 During my 4-week experience at **1337 School (42 Network)**, I explored the foundations of computer science through a series of intense, project-based modules.  
 Each day was filled with problem-solving, debugging, peer learning, and late-night coding sessions — all contributing to huge personal and technical growth.
